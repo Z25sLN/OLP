@@ -1,0 +1,26 @@
+[
+  {
+    "id": "p1",
+    "name": "Pack 4 Cócteles",
+    "price": 90,
+    "description": "4 cócteles variados",
+    "images": [
+      "https://i.pinimg.com/1200x/22/fb/62/22fb62c891c9f95b86be5650d30d57e6.jpg",
+      "https://i.pinimg.com/736x/13/b5/b2/13b5b250297c752506f968489495963c.jpg",
+      "https://i.pinimg.com/736x/b7/41/69/b74169d1c4784dfed6a0a2ec489e315e.jpg",
+      "https://i.pinimg.com/736x/ed/d7/fa/edd7fa59acc6ccd5cac53c8294a5dfe1.jpg"
+    ]
+  },
+  {
+    "id": "p2",
+    "name": "Drinks Kits",
+    "price": 160,
+    "description": "Kit completo de bebidas",
+    "images": [
+      "https://i.pinimg.com/1200x/c9/53/b0/c953b08114838d3fe7ada6ff52a6836d.jpg",
+      "https://i.pinimg.com/736x/e2/71/e7/e271e7f52b68656f93a2d5c681ba454e.jpg",
+      "https://i.pinimg.com/736x/41/94/60/4194603b8952de91d17c8268a01c5ad2.jpg",
+      "https://i.pinimg.com/1200x/8b/48/49/8b484956d00a6e52709f382f0d4369a8.jpg"
+    ]
+  }
+]

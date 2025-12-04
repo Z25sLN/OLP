@@ -1,0 +1,23 @@
+[
+    {
+        "id": "c1",
+        "name": "Margarita",
+        "price": 15,
+        "img": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTE9YVUrQwvGQUtTH1z_9CjR-daoc9TocHssA&s",
+        "tag": "Bebida premium"
+    },
+    {
+        "id": "c2",
+        "name": "Chilcano",
+        "price": 22,
+        "img": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRNdkSSG2Ihncb5auhjb-Oxu5Ff3vlbLkVcIA&s",
+        "tag": "Bebida premium"
+    },
+    {
+        "id": "c3",
+        "name": "machu pichu",
+        "price": 20,
+        "img": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRu9tr7JQq7Ci97J2vNsdhH0x28ry1SaN8ZtQ&s",
+        "tag": "Bebida premium"
+    }
+]
